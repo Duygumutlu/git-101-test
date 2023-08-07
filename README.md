@@ -1,3 +1,5 @@
 # git-101-test
 
-Pull nedir ögreniyoruz
+Pull nedir ögreniyoruz.
+
+Push ögreniyoruz.
